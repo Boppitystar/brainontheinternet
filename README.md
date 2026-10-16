@@ -1,2 +1,2 @@
 # brainontheinternet
-recreating my brain on the internet 
+im going to put my brain on the internet. all the random thoughts I have, the projects im working on, the articles I have read. - i want to start by organizing my notes. I have a collection of 127 freeform notes from across high school and uni and i want an interconnected web that i can use for recalling. - files and photos i take that are particularly meaningful for better recall. - inspo and usage of obsidian and soot.com - soot.com is very inspiration but now its a paid product sad face.
