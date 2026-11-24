@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "file:/Users/stephbg/Downloads/array-sizes-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "array-sizes-notes"
             }
           }
         ]
@@ -190,12 +190,12 @@
   },
   "active": "d70759b0d1fc90f8",
   "lastOpenFiles": [
+    "wiki/index.md",
     "CLAUDE.md",
-    "wiki/log.md",
     "README.md",
+    "wiki/log.md",
     "Cla",
     "private",
-    "wiki/index.md",
     "wiki",
     "raw-sources"
   ]
